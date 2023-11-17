@@ -1,0 +1,16 @@
+15/09/23
+Consultar:
+- Que es nodemon?
+
+Tarea:
+- Conectar la API a mongo BD Atlas.
+1) Eliminar Datos
+2) Respuestas ok
+3) Fechas
+- Asegurarse de haber echo el taller de la semana 6.
+
+Para inicializar el servidor con la TERMINAL: npm run dev
+
+Subir a GitHub
+
+Conectar el proyecto a "Vercel".
